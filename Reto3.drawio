@@ -1,0 +1,230 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="3">
+  <diagram id="lU_4fdG05JBIAhwUcS1D" name="Catálogo de Productos con Alta Concurrencia">
+    <mxGraphModel dx="1242" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Base datos Replica" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="P0orPXUmzANCeN_G0pg9-1">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="20" y="750" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#FFFFFF&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Kafka" B_TECHNOLOGY="e.g. RabbitMQ, etc." C_DESCRIPTION="Kafka container role/responsibility." placeholders="1" id="P0orPXUmzANCeN_G0pg9-2">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=0;size=15;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;strokeColor=#4D319B;rounded=1;fillColor=#6c45c8;spacing=5;spacingTop=-5;arcSize=6;rotation=90;textDirection=ltr;verticalAlign=middle;horizontal=0;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="370" y="495" width="100" height="220" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Redis Cache" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="P0orPXUmzANCeN_G0pg9-3">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="20" y="550" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Sistema Consultor" B_DESCRIPTION="Description of the software system." id="P0orPXUmzANCeN_G0pg9-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="20" y="190" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="API Consulta" B_DESCRIPTION="Description of the software system." id="P0orPXUmzANCeN_G0pg9-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="20" y="350" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-6" target="P0orPXUmzANCeN_G0pg9-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="API Administración" B_DESCRIPTION="Description of the software system." id="P0orPXUmzANCeN_G0pg9-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="610" y="555" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Base datos Primaria" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="P0orPXUmzANCeN_G0pg9-15">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="610" y="740" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-13" target="P0orPXUmzANCeN_G0pg9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-13" target="P0orPXUmzANCeN_G0pg9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=75;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-2" target="P0orPXUmzANCeN_G0pg9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-3" target="P0orPXUmzANCeN_G0pg9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-2" target="P0orPXUmzANCeN_G0pg9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-5" target="P0orPXUmzANCeN_G0pg9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0orPXUmzANCeN_G0pg9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P0orPXUmzANCeN_G0pg9-24" target="P0orPXUmzANCeN_G0pg9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Sistema Administrador" B_DESCRIPTION="Description of the software system." id="P0orPXUmzANCeN_G0pg9-24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="880" y="555" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rzdUEEhfc7AG9ui7oZHa" name="transacciones distribuidas">
+    <mxGraphModel dx="1242" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Pagos DB" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="v8FSFZydDnwCGFd3WLLL-1">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="310" y="740" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Envios DB" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="v8FSFZydDnwCGFd3WLLL-2">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="640" y="740" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-3" target="v8FSFZydDnwCGFd3WLLL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=62.5;exitPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-3" target="v8FSFZydDnwCGFd3WLLL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#FFFFFF&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="RabbitMQ" B_TECHNOLOGY="e.g. RabbitMQ, etc." C_DESCRIPTION="Gestiona los mensajes asincronos" placeholders="1" id="v8FSFZydDnwCGFd3WLLL-3">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=0;size=15;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;strokeColor=#4D319B;rounded=1;fillColor=#6c45c8;spacing=5;spacingTop=-5;arcSize=6;rotation=90;textDirection=ltr;verticalAlign=middle;horizontal=0;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;metaEdit=1;" vertex="1" parent="1">
+            <mxGeometry x="360" y="370" width="100" height="220" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Servicio Envio" C_DESCRIPTION="Description of the container Maneja Envio" B_TECHNOLOGY="e.g. Spring Boot, NodeJS, etc." id="v8FSFZydDnwCGFd3WLLL-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#6c45c8;strokeColor=#4D319B;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;align=center;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="630" y="590" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Servicio Pago" C_DESCRIPTION="Maneja Pago" B_TECHNOLOGY="e.g. Spring Boot, NodeJS, etc." id="v8FSFZydDnwCGFd3WLLL-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#6c45c8;strokeColor=#4D319B;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;align=center;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="320" y="600" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-6" target="v8FSFZydDnwCGFd3WLLL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Servicio Stock" C_DESCRIPTION="Maneja Stock" B_TECHNOLOGY="e.g. Spring Boot, NodeJS, etc." id="v8FSFZydDnwCGFd3WLLL-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#6c45c8;strokeColor=#4D319B;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;align=center;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="10" y="600" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Stock DB" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="v8FSFZydDnwCGFd3WLLL-7">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry y="740" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Orquestador Saga Service" C_DESCRIPTION="Crea transaccion y consulta estado" B_TECHNOLOGY="e.g. Spring Boot, NodeJS, etc." id="v8FSFZydDnwCGFd3WLLL-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#6c45c8;strokeColor=#4D319B;movableLabel=0;allowArrows=0;rotatable=0;autosize=0;align=center;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="290" y="250" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.577;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-8" target="v8FSFZydDnwCGFd3WLLL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.395;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-3" target="v8FSFZydDnwCGFd3WLLL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.532;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-5" target="v8FSFZydDnwCGFd3WLLL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8FSFZydDnwCGFd3WLLL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.568;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v8FSFZydDnwCGFd3WLLL-4" target="v8FSFZydDnwCGFd3WLLL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="v7a59ddhELrdIIMNxwv-" name="Comunicacion Microservicios">
+    <mxGraphModel dx="1242" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#FFFFFF&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="Kafka Connect" B_TECHNOLOGY="e.g. RabbitMQ, etc." C_DESCRIPTION="Description of the message bus container role/responsibility." placeholders="1" id="m-Bh84iO_hDxB9aS7rZQ-1">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=0;size=15;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;strokeColor=#4D319B;rounded=1;fillColor=#6c45c8;spacing=5;spacingTop=-5;arcSize=6;rotation=90;textDirection=ltr;verticalAlign=middle;horizontal=0;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;metaEdit=1;" parent="1" vertex="1">
+            <mxGeometry x="410" y="570" width="100" height="220" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Microservicio A" B_DESCRIPTION="Description of the software system." id="m-Bh84iO_hDxB9aS7rZQ-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="50" y="1020" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Microservicio B" B_DESCRIPTION="Description of the software system." id="m-Bh84iO_hDxB9aS7rZQ-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="370" y="1020" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Microservicio C" B_DESCRIPTION="Description of the software system." id="m-Bh84iO_hDxB9aS7rZQ-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="700" y="1020" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="MicroServicio A BD" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="m-Bh84iO_hDxB9aS7rZQ-7">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="50" y="800" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="MicroServicio B BD" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="m-Bh84iO_hDxB9aS7rZQ-8">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="360" y="800" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="MicroServicio C BD" B_TECHNOLOGY="e.g. Oracle Database 12" C_DESCRIPTION="Description of the data container role/responsibility." placeholders="1" id="m-Bh84iO_hDxB9aS7rZQ-9">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontColor=#ffffff;strokeColor=#4D319B;fillColor=#6c45c8;arcSize=6;autosize=0;metaEdit=1;resizable=0;rotatable=0;allowArrows=0;align=center;spacing=5;spacingTop=-5;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="650" y="790" width="220" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.786;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.441;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-1" target="m-Bh84iO_hDxB9aS7rZQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.455;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-1" target="m-Bh84iO_hDxB9aS7rZQ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=62.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-1" target="m-Bh84iO_hDxB9aS7rZQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%A_NAME%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;[Software System]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#CCCCCC&quot;&gt;%B_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" placeholders="1" A_NAME="Api Gateway" B_DESCRIPTION="Description of the software system." id="m-Bh84iO_hDxB9aS7rZQ-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;arcSize=6;metaEdit=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;editable=1;fillColor=#48279E;strokeColor=#2C186C;movableLabel=0;allowArrows=0;rotatable=0;imageWidth=24;spacing=5;" parent="1" vertex="1">
+            <mxGeometry x="370" y="1330" width="220" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-4" target="m-Bh84iO_hDxB9aS7rZQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-5" target="m-Bh84iO_hDxB9aS7rZQ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Bh84iO_hDxB9aS7rZQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.714;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-6" target="m-Bh84iO_hDxB9aS7rZQ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;%A_NAME%&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot; color=&quot;#FFFFFF&quot;&gt;[Container: %B_TECHNOLOGY%]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%C_DESCRIPTION%&lt;/font&gt;&lt;/div&gt;" A_NAME="SQS" B_TECHNOLOGY="e.g. RabbitMQ, etc." C_DESCRIPTION="Description of the message bus container role/responsibility." placeholders="1" id="zbdPf9uGOp9tRXFxBacY-1">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=0;size=15;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;strokeColor=#4D319B;rounded=1;fillColor=#6c45c8;spacing=5;spacingTop=-5;arcSize=6;rotation=90;textDirection=ltr;verticalAlign=middle;horizontal=0;allowArrows=0;recursiveResize=0;expand=0;resizable=0;rotatable=0;metaEdit=1;" parent="1" vertex="1">
+            <mxGeometry x="425" y="1110" width="100" height="220" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zbdPf9uGOp9tRXFxBacY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.97;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="m-Bh84iO_hDxB9aS7rZQ-15" target="zbdPf9uGOp9tRXFxBacY-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbdPf9uGOp9tRXFxBacY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zbdPf9uGOp9tRXFxBacY-1" target="m-Bh84iO_hDxB9aS7rZQ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbdPf9uGOp9tRXFxBacY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zbdPf9uGOp9tRXFxBacY-1" target="m-Bh84iO_hDxB9aS7rZQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbdPf9uGOp9tRXFxBacY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.536;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zbdPf9uGOp9tRXFxBacY-1" target="m-Bh84iO_hDxB9aS7rZQ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
