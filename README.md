@@ -4,7 +4,8 @@ Reto 3
 
 Propuesta de Arquitectura
 
- 
+ ![image](https://github.com/user-attachments/assets/d69ca63a-88e2-4270-95a1-bdede3d128dc)
+
 
 •	Base de Datos: Se puede usar una base de datos relacional con replica para manejar las escrituras y lecturas.
 
@@ -35,7 +36,8 @@ La arquitectura basada en microservicios permite escalar de manera independiente
 
 Propuesta de Arquitectura
 
- 
+ ![image](https://github.com/user-attachments/assets/39efa80e-2fc7-4909-9559-11e1df193e85)
+
 
 •	Saga Pattern: Implementariamos un servicio con patron coreografía para coordinar transacciones distribuidas.
 o	Orquestador central para coordinar los pasos de la transacción.
@@ -59,7 +61,8 @@ Justificación
 
 Propuesta de Arquitectura
 
- 
+ ![image](https://github.com/user-attachments/assets/1fabf862-1779-431f-a9d1-251c584a4171)
+
 
 •	Eventos de Dominio: Uso de eventos de dominio para comunicar cambios de datos relevantes a otros servicios.
 o	Ejemplo: Publicar eventos a través de un bus de eventos SQS
@@ -85,4 +88,3 @@ Justificación
 
 •	El uso de bases de datos distribuidas y herramientas de autoescalado asegura que el sistema pueda manejar grandes volúmenes de datos sin comprometer la sincronización.
 
-![Uploading image.png…]()
